@@ -173,5 +173,6 @@ Chaque structure de données a ses propres avantages et limitations en termes de
 - [Cryptage simple](https://github.com/itszaaak/CryptageSimple) (Python)
 - [Jeu Morpion](https://github.com/itszaaak/morpion/tree/main) (Python)
 - [Plus Grand Palindrome](https://github.com/itszaaak/PlusGrandPalindrome/tree/main) (Python)
+- [Nombre secret]https://github.com/itszaaak/NombreSecret/tree/main) (Python)
 
 
